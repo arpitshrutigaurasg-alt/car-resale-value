@@ -1,2 +1,3 @@
-# car-resale-value
-car resale value
+# ML - Project
+Model Train by Regression (Machine Learning) 
+CAR RESALE PRICE
